@@ -21,13 +21,7 @@ A modern, responsive portfolio website showcasing my work as a Full Stack Develo
 - Particle.js for background effects
 - AOS for scroll animations
 - Typed.js for text animations
-
-## Running Locally
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
-4. Open `http://localhost:5500` in your browser
+
 
 ## Project Structure
 
@@ -42,6 +36,6 @@ A modern, responsive portfolio website showcasing my work as a Full Stack Develo
 
 ## Contact
 
-- Email: [your.email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- Telegram: [@yourusername]
+- Email: mkamilx.dev@gmail.com
+- LinkedIn: -
+- Telegram: @mkamil360
