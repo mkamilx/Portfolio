@@ -1,4 +1,4 @@
-# Md. Kamil Ahmad - Portfolio Website
+# Kamil Ahmad - Portfolio Website
 
 A modern, responsive portfolio website showcasing my work as a Full Stack Developer and AI Enthusiast.
 
